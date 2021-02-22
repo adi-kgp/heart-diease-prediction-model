@@ -1,4 +1,4 @@
-# heart-diease-prediction-model
+# heart-disease-prediction-model
 
 End to end data analysis and prediction model for the data containing heart-disease data, using machine leaning techniques. The dataset is taken from Kaggle.com, link is here: https://www.kaggle.com/ronitf/heart-disease-uci
 
